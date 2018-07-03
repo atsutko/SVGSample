@@ -1,0 +1,6 @@
+framework module Pods_SVGSample {
+  umbrella header "Pods-SVGSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
