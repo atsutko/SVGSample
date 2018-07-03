@@ -6,8 +6,7 @@ target 'SVGSample' do
   use_frameworks!
 
   # Pods for SVGSample
-#pod 'SVGKit', :git => 'https://github.com/SVGKit/SVGKit.git', :branch => '2.x' 
-pod 'SwiftSVG'
+
 
 
 end
